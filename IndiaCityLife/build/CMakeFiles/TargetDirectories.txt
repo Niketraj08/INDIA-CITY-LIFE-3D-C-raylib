@@ -1,0 +1,3 @@
+C:/Users/HP/Downloads/IndiaCityLife_3D_Raylib/IndiaCityLife/build/CMakeFiles/IndiaCityLife.dir
+C:/Users/HP/Downloads/IndiaCityLife_3D_Raylib/IndiaCityLife/build/CMakeFiles/edit_cache.dir
+C:/Users/HP/Downloads/IndiaCityLife_3D_Raylib/IndiaCityLife/build/CMakeFiles/rebuild_cache.dir
