@@ -1,4 +1,4 @@
-# INDIA CITY LIFE — 3D C++ / raylib only c++ use and 
+# INDIA CITY LIFE — 3D C++ / raylib only c++ use and library use to c++
 
 A large-scale 3D city-simulation foundation built with C++17 and raylib.
 
